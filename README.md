@@ -172,12 +172,17 @@ for w, true, pred in zip (X_test[i], y_true, p[0]):
 ## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
+
 ![1](https://user-images.githubusercontent.com/94154252/235593087-1c00aa16-66bb-4c44-b1e8-28a73b89cbb7.png)
+
 ![2](https://user-images.githubusercontent.com/94154252/235593104-cdf37bfa-8400-4b27-83ba-533b75cf6c30.png)
+
 ![3](https://user-images.githubusercontent.com/94154252/235593118-88ada549-87d3-48ab-ad5e-14a68f2d3c53.png)
+
 ![4](https://user-images.githubusercontent.com/94154252/235593125-3799312e-5dec-4e77-84ba-22ec0ca2faa7.png)
 
 ### Sample Text Prediction:
+
 ![5](https://user-images.githubusercontent.com/94154252/235593149-efc9d1c9-d95f-486e-a0ee-9e0441e60ca3.png)
 
 ## RESULT:
